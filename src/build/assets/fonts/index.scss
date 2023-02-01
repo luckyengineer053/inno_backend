@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Molot;
+  src: url(./Molot.ttf) format("opentype");
+}
+
+// @font-face {
+//   font-family: Inter;
+//   text-decoration: underline;
+//   src: url(Inter-Regular.ttf) format("opentype");
+// }
+
+* {
+  font-family: Molot;
+}
+
+@font-face {
+  font-family: Century Gothic;
+  src: url(./Century\ Gothic.ttf) format("opentype");
+}
